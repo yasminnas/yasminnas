@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/yasminnas">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F5A9C4&center=true&vCenter=true&width=700&lines=Estudante+de+Ciência+da+Computação;Interesse+em+Banco+de+Dados+e+Desenvolvimento;Aprendendo+e+construindo+projetos;Sempre+buscando+evoluir+na+tecnologia" alt="Typing SVG" />
 </a>
 
@@ -62,13 +62,13 @@ Atualmente estou construindo minha base técnica, desenvolvendo projetos para co
 <!-- PROJETO 1 -->
 
 <a href="LINK_DO_PROJETO_1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPOSITORIO_1&theme=transparent&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yasminnas&repo=NOME_DO_REPOSITORIO_1&theme=transparent&hide_border=true" />
 </a>
 
 <!-- PROJETO 2 -->
 
 <a href="LINK_DO_PROJETO_2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPOSITORIO_2&theme=transparent&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yasminn&repo=NOME_DO_REPOSITORIO_2&theme=transparent&hide_b" />
 </a>
 
 </div>
@@ -89,9 +89,9 @@ Projeto voltado para a criação de uma experiência de provador virtual utiliza
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasminnas&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminnas&layout=compact&hide_border=true&theme=transparent"/>
 
 </div>
 
@@ -101,7 +101,7 @@ Projeto voltado para a criação de uma experiência de provador virtual utiliza
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=transparent&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=yasminnas&theme=transparent&hide_border=true" />
 
 </div>
 
@@ -111,7 +111,7 @@ Projeto voltado para a criação de uma experiência de provador virtual utiliza
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=00000000&color=F5A9C4&line=F5A9C4&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasminnas&bg_color=00000000&color=F5A9C4&line=F5A9C4&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -121,19 +121,10 @@ Projeto voltado para a criação de uma experiência de provador virtual utiliza
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=yasminnas&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/>
 
 </div>
 
----
-
-# 🐍 Snake Contribution
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>
 
 ---
 
