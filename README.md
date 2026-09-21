@@ -142,7 +142,7 @@ Projeto voltado para a criação de uma experiência de provador virtual utiliza
 <div align="center">
 
 <a href="LINK_DO_LINKEDIN">
-<img src= "https://www.linkedin.com/public-profile/settings/"/>
+<img src="https://www.linkedin.com/in/yasmin-nascimento-424005237?utm_source=share_via&utm_content=profile&utm_medium=member_android"/>
 </a>
 
 <a href="https://github.com/SEU_USUARIO">
