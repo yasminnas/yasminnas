@@ -8,7 +8,8 @@ Tenho interesse em tecnologia, programação, banco de dados e desenvolvimento d
 Atualmente estou construindo minha base técnica, desenvolvendo projetos para colocar meus conhecimentos em prática e buscando evoluir profissionalmente na área de tecnologia.
 
 🛠️ Tecnologias e conhecimentos
-<div align="center"> <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Banco%20de%20Dados-000000?style=for-the-badge&logo=databricks&logoColor=white"/> <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Desenvolvimento-000000?style=for-the-badge&logo=codeforces&logoColor=white"/> </div>
+<div align="center"> <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Banco%20de%20Dados-000000?style=for-the-badge&logo=databricks&logoColor=white"/> <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Desenvolvimento%20de%20Sistemas-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+ </div>
 
 📌 Tecnologias que estou estudando e desenvolvendo na minha trajetória em tecnologia.
 
