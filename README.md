@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Olá,%20eu%20sou%20Yaya!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ciência%20da%20Computação%20%7C%20Banco%20de%20Dados%20%7C%20Desenvolvimento&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Olá,%20eu%20sou%20Yasmin!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ciência%20da%20Computação%20%7C%20Banco%20de%20Dados%20%7C%20Desenvolvimento&descAlignY=58&descSize=17" width="100%"/>
 
 </div>
 
@@ -34,7 +34,7 @@ Tenho interesse em tecnologia, programação, banco de dados e desenvolvimento d
 
 Atualmente estou construindo minha base técnica, desenvolvendo projetos para colocar meus conhecimentos em prática e buscando evoluir profissionalmente na área de tecnologia.
 
-Também tenho interesse em explorar futuramente áreas que conectem **tecnologia, ciência e pesquisa**.
+
 
 ---
 
