@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Olá,%20eu%20sou%20Yasmin!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ciência%20da%20Computação%20%7C%20Banco%20de%20Dados%20%7C%20Desenvolvimento&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Olá,%20eu%20sou%20a%20Yasmin!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ciência%20da%20Computação%20%7C%20Banco%20de%20Dados%20%7C%20Desenvolvimento&descAlignY=58&descSize=17" width="100%"/>
 
 </div>
 
