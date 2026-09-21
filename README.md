@@ -142,7 +142,7 @@ Projeto voltado para a criação de uma experiência de provador virtual utiliza
 <div align="center">
 
 <a href="LINK_DO_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src= "https://www.linkedin.com/public-profile/settings/"/>
 </a>
 
 <a href="https://github.com/SEU_USUARIO">
@@ -157,10 +157,10 @@ Projeto voltado para a criação de uma experiência de provador virtual utiliza
 
 - 🎓 Estudando Ciência da Computação
 - 🗄️ Desenvolvendo conhecimentos em Banco de Dados
-- 💻 Estudando Desenvolvimento
+- 💻 Estudando Desenvolvimento em Sistemas 
 - 🐍 Aprendendo e praticando Python
 - 🚀 Criando projetos para meu portfólio
-- 🔬 Interessada na conexão entre tecnologia, ciência e pesquisa
+
 
 ---
 
