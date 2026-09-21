@@ -1,159 +1,52 @@
-<!-- =========================
-     BANNER
-========================= -->
+<!-- ========================= BANNER ========================= --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Olá,%20eu%20sou%20a%20Yasmin!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ciência%20da%20Computação%20%7C%20Banco%20de%20Dados%20%7C%20Desenvolvimento&descAlignY=58&descSize=17" width="100%"/> </div> <!-- ========================= TYPING ========================= --> <div align="center"> <a href="https://github.com/yasminnas"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F5A9C4&center=true&vCenter=true&width=700&lines=Estudante+de+Ciência+da+Computação;Interesse+em+Banco+de+Dados+e+Desenvolvimento;Aprendendo+e+construindo+projetos;Sempre+buscando+evoluir+na+tecnologia" alt="Typing SVG" /> </a> </div> <br> <!-- ========================= SOBRE MIM ========================= -->
+👩‍💻 Sobre mim
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Olá,%20eu%20sou%20a%20Yasmin!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ciência%20da%20Computação%20%7C%20Banco%20de%20Dados%20%7C%20Desenvolvimento&descAlignY=58&descSize=17" width="100%"/>
-
-</div>
-
-<!-- =========================
-     TYPING
-========================= -->
-
-<div align="center">
-
-<a href="https://github.com/yasminnas">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F5A9C4&center=true&vCenter=true&width=700&lines=Estudante+de+Ciência+da+Computação;Interesse+em+Banco+de+Dados+e+Desenvolvimento;Aprendendo+e+construindo+projetos;Sempre+buscando+evoluir+na+tecnologia" alt="Typing SVG" />
-</a>
-
-</div>
-
-<br>
-
-<!-- =========================
-     SOBRE MIM
-========================= -->
-
-## 👩‍💻 Sobre mim
-
-Sou estudante de **Ciência da Computação**, com formação em **Administração de Banco de Dados** e formação técnica na área de **Desenvolvimento**.
+Sou estudante de Ciência da Computação, com formação em Administração de Banco de Dados e formação técnica na área de Desenvolvimento.
 
 Tenho interesse em tecnologia, programação, banco de dados e desenvolvimento de projetos.
 
 Atualmente estou construindo minha base técnica, desenvolvendo projetos para colocar meus conhecimentos em prática e buscando evoluir profissionalmente na área de tecnologia.
 
+🛠️ Tecnologias e conhecimentos
+<div align="center"> <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Banco%20de%20Dados-000000?style=for-the-badge&logo=databricks&logoColor=white"/> <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Desenvolvimento-000000?style=for-the-badge&logo=codeforces&logoColor=white"/> </div>
 
+📌 Tecnologias que estou estudando e desenvolvendo na minha trajetória em tecnologia.
 
----
+🚀 Projetos
+<div align="center"> <!-- PROJETO 1 --> <a href="https://github.com/yasminnas/NOME_DO_REPOSITORIO_1"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasminnas&repo=NOME_DO_REPOSITORIO_1&theme=transparent&hide_border=true" /> </a> <!-- PROJETO 2 --> <a href="https://github.com/yasminnas/NOME_DO_REPOSITORIO_2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasminnas&repo=NOME_DO_REPOSITORIO_2&theme=transparent&hide_border=true" /> </a> </div> <br>
+💎 Projeto em destaque
 
-## 🛠️ Tecnologias e conhecimentos
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Banco%20de%20Dados-000000?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Desenvolvimento-000000?style=for-the-badge&logo=codeforces&logoColor=white"/>
-
-</div>
-
-> 📌 Tecnologias que estou estudando e desenvolvendo na minha trajetória em tecnologia.
-
----
-
-# 🚀 Projetos
-
-<div align="center">
-
-<!-- PROJETO 1 -->
-
-<a href="LINK_DO_PROJETO_1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yasminnas&repo=NOME_DO_REPOSITORIO_1&theme=transparent&hide_border=true" />
-</a>
-
-<!-- PROJETO 2 -->
-
-<a href="LINK_DO_PROJETO_2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yasminn&repo=NOME_DO_REPOSITORIO_2&theme=transparent&hide_b" />
-</a>
-
-</div>
-
-<br>
-
-### 💡 Projeto em destaque
-
-**Provador Virtual para Joias**
+Provador Virtual para Joias
 
 Projeto voltado para a criação de uma experiência de provador virtual utilizando tecnologias de visão computacional e recursos de realidade aumentada.
 
-> 🔗 Repositório: `ADICIONE O LINK QUANDO O PROJETO ESTIVER NO GITHUB`
+🔗 Repositório: Adicione o link quando o projeto estiver disponível no GitHub.
 
----
+📊 GitHub Stats
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasminnas&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminnas&layout=compact&hide_border=true&theme=transparent"/> </div>
+🔥 Streak
+<div align="center"> <img src="https://streak-stats.demolab.com?user=yasminnas&theme=transparent&hide_border=true" /> </div>
+📈 Activity Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasminnas&bg_color=00000000&color=F5A9C4&line=F5A9C4&point=FFFFFF&area=true&hide_border=true" width="100%"/> </div>
+🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=yasminnas&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/> </div>
+🌐 Redes sociais
+<div align="center"> <a href="https://www.linkedin.com/in/yasmin-nascimento-424005237/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div>
+💻 Atualmente
 
-# 📊 GitHub Stats
+🎓 Estudando Ciência da Computação
 
-<div align="center">
+🗄️ Desenvolvendo conhecimentos em Banco de Dados
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasminnas&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true"/>
+💻 Estudando Desenvolvimento de Sistemas
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminnas&layout=compact&hide_border=true&theme=transparent"/>
+🐍 Aprendendo e praticando Python
 
-</div>
-
----
-
-# 🔥 Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=yasminnas&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Activity Graph
+🚀 Criando projetos para meu portfólio
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasminnas&bg_color=00000000&color=F5A9C4&line=F5A9C4&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yasminnas&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/>
-
-</div>
-
-
----
-
-# 🌐 Redes sociais
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yasmin-nascimento-424005237)
-
-</div>
-
----
-
-# 💻 Atualmente
-
-- 🎓 Estudando Ciência da Computação
-- 🗄️ Desenvolvendo conhecimentos em Banco de Dados
-- 💻 Estudando Desenvolvimento em Sistemas 
-- 🐍 Aprendendo e praticando Python
-- 🚀 Criando projetos para meu portfólio
-
-
----
-
-<div align="center">
-
-### ✨ Construindo conhecimento, um projeto de cada vez.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:000000,100:F5A9C4" width="100%"/>
-
-</div>
+✨ Construindo conhecimento, um projeto de cada vez.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:000000,100:F5A9C4" width="100%"/> </div>
 
 <!--
 **yasminnas/yasminnas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
