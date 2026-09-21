@@ -1,14 +1,14 @@
 <!-- ========================= BANNER ========================= --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Olá,%20eu%20sou%20a%20Yasmin!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ciência%20da%20Computação%20%7C%20Desenvolvimento%20de%20Sistemas%20%7C%20Banco%20de%20Dados&descAlignY=62&descSize=16&color=0:000000,100:F5A9C4" width="100%"/> </div> <br> <div align="center">
+<div align="left">
 👩‍💻 Sobre mim
 
 Sou estudante de Ciência da Computação, com formação em Administração de Banco de Dados e formação técnica na área de Desenvolvimento.
-
 Tenho interesse em tecnologia, programação, banco de dados e desenvolvimento de projetos.
-
 Atualmente estou construindo minha base técnica, desenvolvendo projetos para colocar meus conhecimentos em prática e buscando evoluir profissionalmente na área de tecnologia.
+</div>
 
 🛠️ Tecnologias e conhecimentos
-<div align="left"> <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Banco%20de%20Dados-000000?style=for-the-badge&logo=databricks&logoColor=white"/> <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Desenvolvimento%20de%20Sistemas-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+<div align="center"> <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Banco%20de%20Dados-000000?style=for-the-badge&logo=databricks&logoColor=white"/> <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Desenvolvimento%20de%20Sistemas-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
  </div>
 
 📌 Tecnologias que estou estudando e desenvolvendo na minha trajetória em tecnologia.
