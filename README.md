@@ -130,12 +130,7 @@ Projeto voltado para a criação de uma experiência de provador virtual utiliza
 
 # 🌐 Redes sociais
 
-<div align="center">
-
-<a href="www.linkedin.com/in/yasmin-nascimento-424005237">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yasmin-nascimento-424005237)
 
 </div>
 
