@@ -141,13 +141,10 @@ Projeto voltado para a criação de uma experiência de provador virtual utiliza
 
 <div align="center">
 
-<a href="LINK_DO_LINKEDIN">
-<img src="https://www.linkedin.com/in/yasmin-nascimento-424005237?utm_source=share_via&utm_content=profile&utm_medium=member_android"/>
+<a href="https://www.linkedin.com/in/yasmin-nascimento-424005237?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 </div>
 
