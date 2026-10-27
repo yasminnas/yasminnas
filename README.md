@@ -1,64 +1,87 @@
-<!-- ========================= BANNER ========================= --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Olá,%20eu%20sou%20a%20Yasmin!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ciência%20da%20Computação%20%7C%20Desenvolvimento%20de%20Sistemas%20%7C%20Banco%20de%20Dados&descAlignY=62&descSize=16&color=0:000000,100:F5A9C4" width="100%"/> </div> <br> <div align="center">
-👩‍💻 Sobre mim
-Oi! Eu sou a Yasmin 👋
+<div align="center">
 
-🎓 Estudante de Ciência da Computação
-💻 Formação em Desenvolvimento de Sistemas
-🗄️ Formação em Administração de Banco de Dados
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,100:F5A9C4&text=Yasmin%20Nascimento&fontColor=FFFFFF&fontSize=38&fontAlignY=40&desc=Computer%20Science%20%7C%20Technology&descAlignY=62&descSize=15&animation=fadeIn"/>
 
-🛠️ Tecnologias e conhecimentos
-<div align="center"> <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Banco%20de%20Dados-000000?style=for-the-badge&logo=databricks&logoColor=white"/> <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Desenvolvimento%20de%20Sistemas-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
- </div>
+✦ Olá! Seja bem-vindo(a) ao meu perfil ✦
 
-📌 Tecnologias que estou estudando e desenvolvendo na minha trajetória em tecnologia.
+Estudante de Ciência da Computação, com formação técnica em Desenvolvimento de Sistemas e conhecimentos em programação, banco de dados e tecnologia.
 
-🚀 Projetos
-<div align="center"> <!-- PROJETO 1 --> <a href="https://github.com/yasminnas/NOME_DO_REPOSITORIO_1"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasminnas&repo=NOME_DO_REPOSITORIO_1&theme=transparent&hide_border=true" /> </a> <!-- PROJETO 2 --> <a href="https://github.com/yasminnas/NOME_DO_REPOSITORIO_2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasminnas&repo=NOME_DO_REPOSITORIO_2&theme=transparent&hide_border=true" /> </a> </div> <br>
-💎 Projeto em destaque
+<a href="https://github.com/yasminnas"><img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=F5A9C4"/></a> <a href="https://www.linkedin.com/in/yasmin-nascimento-424005237/"><img src="https://img.shields.io/badge/LinkedIn-101010?style=for-the-badge&logo=linkedin&logoColor=F5A9C4"/></a>
 
-Provador Virtual para Joias
+</div>
 
-Projeto voltado para a criação de uma experiência de provador virtual utilizando tecnologias de visão computacional e recursos de realidade aumentada.
+♡ About Me
+🎓 Bachelor's student in Computer Science at UNINTER.
+💻 Technical background in Systems Development.
+🗄️ Training in Database Administration.
+🐍 Learning and practicing Python and SQL.
+🌱 Always seeking opportunities to learn and grow in technology.
+♡ Education
 
-🔗 Repositório: Adicione o link quando o projeto estiver disponível no GitHub.
+Bachelor's Degree in Computer Science
+UNINTER · Oct 2024 – Oct 2028
 
-📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasminnas&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminnas&layout=compact&hide_border=true&theme=transparent"/> </div>
-🔥 Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=yasminnas&theme=transparent&hide_border=true" /> </div>
-📈 Activity Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasminnas&bg_color=00000000&color=F5A9C4&line=F5A9C4&point=FFFFFF&area=true&hide_border=true" width="100%"/> </div>
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=yasminnas&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/> </div>
-🌐 Redes sociais
-<div align="center"> <a href="https://www.linkedin.com/in/yasmin-nascimento-424005237/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div>
-💻 Atualmente
+Systems Development Technician
+Firjan SENAI
 
-🎓 Estudando Ciência da Computação
+Database Administrator
+Firjan SENAI · Oct 2025 – May 2026
 
-🗄️ Desenvolvendo conhecimentos em Banco de Dados
+♡ Professional Experience
 
-💻 Estudando Desenvolvimento de Sistemas
+Young Apprentice — Logistics Assistant
+Corthepark · Sep 2022 – Sep 2023
 
-🐍 Aprendendo e praticando Python
-
-🚀 Criando projetos para meu portfólio
+Knowledge of inventory procedures and material control.
+Experience with storage and organization.
+Familiarity with stock management routines.
+♡ Courses & Certifications
+Course	Institution
+Python	Santander
+Python — Basic	Fundação Bradesco
+Internet of Things	Santander
+Data Modeling	Fundação Bradesco
+Code Versioning with Git and GitHub	DIO
+Microsoft Excel — Basic	Fundação Bradesco
+♡ Tech Stack
 
 <div align="center">
-✨ Construindo conhecimento, um projeto de cada vez.
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:000000,100:F5A9C4" width="100%"/> </div>
 
-<!--
-**yasminnas/yasminnas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/badge/Python-171717?style=for-the-badge&logo=python&logoColor=F5A9C4"/>
+<img src="https://img.shields.io/badge/SQL-171717?style=for-the-badge&logo=postgresql&logoColor=F5A9C4"/>
+<img src="https://img.shields.io/badge/Git-171717?style=for-the-badge&logo=git&logoColor=F5A9C4"/>
+<img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=F5A9C4"/>
+<img src="https://img.shields.io/badge/Excel-171717?style=for-the-badge&logo=microsoftexcel&logoColor=F5A9C4"/>
+<img src="https://img.shields.io/badge/Databases-171717?style=for-the-badge&logo=databricks&logoColor=F5A9C4"/>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+♡ Skills
+Python
+SQL
+Git and GitHub
+Database fundamentals
+Inventory organization and material control
+Microsoft Excel — Basic
+♡ Languages
+Portuguese: Native
+English: Intermediate
+♡ GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yasminnas&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F5A9C4&icon_color=F5A9C4&text_color=FFFFFF"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminnas&layout=compact&hide_border=true&bg_color=0D1117&title_color=F5A9C4&text_color=FFFFFF"/>
+
+</div>
+
+<div align="center">
+
+♡ Learning, building, and growing.
+
+Every step is part of the journey.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:000000,100:F5A9C4"/>
+
+</div>
