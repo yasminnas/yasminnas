@@ -74,12 +74,12 @@ Course	-  Institution
 ☆Inventory organization and material control
 <br><br>
 ♡ Languages
+<br>
 ☆Portuguese: Native
 <br>
 ☆English: Intermediate
-♡ GitHub Statistics
 </div>
-
+♡ GitHub Statistics
 <div align="center">
 
 <img width="95%" src="https://github-readme-stats.vercel.app/api?username=yasminnas&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F5A9C4&icon_color=F5A9C4&text_color=FFFFFF&rank_icon=github" alt="Yasmin's GitHub statistics"/>
