@@ -34,7 +34,7 @@ Bachelor's Degree in Computer Science
 <br><br>
 ♡ Courses & Certifications
 <br>
-Course	 Institution
+Course	-  Institution
 <br>
 ☆Python - Santander
 <br>
