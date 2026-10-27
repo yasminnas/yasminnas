@@ -1,87 +1,93 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,100:F5A9C4&text=Yasmin%20Nascimento&fontColor=FFFFFF&fontSize=38&fontAlignY=40&desc=Computer%20Science%20%7C%20Technology&descAlignY=62&descSize=15&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:F5A9C4&height=180&section=header&text=Yasmin%20Nascimento&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Student&descAlignY=60&descSize=16&animation=fadeIn"/>
 
-✦ Olá! Seja bem-vindo(a) ao meu perfil ✦
+<br>
 
-Estudante de Ciência da Computação, com formação técnica em Desenvolvimento de Sistemas e conhecimentos em programação, banco de dados e tecnologia.
+<a href="https://github.com/yasminnas">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=F5A9C4" />
+</a>
+<a href="https://www.linkedin.com/in/yasmin-nascimento-424005237/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F5A9C4" />
+</a>
 
-<a href="https://github.com/yasminnas"><img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=F5A9C4"/></a> <a href="https://www.linkedin.com/in/yasmin-nascimento-424005237/"><img src="https://img.shields.io/badge/LinkedIn-101010?style=for-the-badge&logo=linkedin&logoColor=F5A9C4"/></a>
+<br><br>
 
+Learning, creating, and growing in technology. ♡
 </div>
 
+<div align = "left">
 ♡ About Me
-🎓 Bachelor's student in Computer Science at UNINTER.
-💻 Technical background in Systems Development.
-🗄️ Training in Database Administration.
-🐍 Learning and practicing Python and SQL.
-🌱 Always seeking opportunities to learn and grow in technology.
+
+Hello! I'm Yasmin, a Computer Science student 
+
+🎓 Bachelor's Degree in Computer Science at UNINTER
+<br>
+💻 Systems Development Technician 
+<br>
+🗄️ Database Administration
+<br>
+🌱 Currently improving my programming and technical skills
+<br><br>
 ♡ Education
-
 Bachelor's Degree in Computer Science
-UNINTER · Oct 2024 – Oct 2028
-
-Systems Development Technician
-Firjan SENAI
-
-Database Administrator
-Firjan SENAI · Oct 2025 – May 2026
-
-♡ Professional Experience
-
-Young Apprentice — Logistics Assistant
-Corthepark · Sep 2022 – Sep 2023
-
-Knowledge of inventory procedures and material control.
-Experience with storage and organization.
-Familiarity with stock management routines.
+<br><br>
 ♡ Courses & Certifications
+<br>
 Course	Institution
+<br>
 Python	Santander
+<br>
 Python — Basic	Fundação Bradesco
+<br>
 Internet of Things	Santander
+<br>
 Data Modeling	Fundação Bradesco
+<br>
 Code Versioning with Git and GitHub	DIO
+<br>
 Microsoft Excel — Basic	Fundação Bradesco
+<br><br>
+</div>
 ♡ Tech Stack
-
 <div align="center">
-
-<img src="https://img.shields.io/badge/Python-171717?style=for-the-badge&logo=python&logoColor=F5A9C4"/>
-<img src="https://img.shields.io/badge/SQL-171717?style=for-the-badge&logo=postgresql&logoColor=F5A9C4"/>
-<img src="https://img.shields.io/badge/Git-171717?style=for-the-badge&logo=git&logoColor=F5A9C4"/>
-<img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=F5A9C4"/>
-<img src="https://img.shields.io/badge/Excel-171717?style=for-the-badge&logo=microsoftexcel&logoColor=F5A9C4"/>
-<img src="https://img.shields.io/badge/Databases-171717?style=for-the-badge&logo=databricks&logoColor=F5A9C4"/>
-
+<img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=F5A9C4" alt="SQL"/>
+<img src="https://img.shields.io/badge/Databases-111111?style=for-the-badge&logo=databricks&logoColor=F5A9C4" alt="Databases"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-111111?style=for-the-badge&logo=microsoftexcel&logoColor=F5A9C4" alt="Microsoft Excel"/>
 </div>
 
+<div align = "left">
 ♡ Skills
 Python
 SQL
 Git and GitHub
 Database fundamentals
-Inventory organization and material control
+Data modeling
 Microsoft Excel — Basic
+Inventory organization and material control
+<br><br>
 ♡ Languages
 Portuguese: Native
 English: Intermediate
 ♡ GitHub Statistics
+</div>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yasminnas&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F5A9C4&icon_color=F5A9C4&text_color=FFFFFF"/>
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=yasminnas&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F5A9C4&icon_color=F5A9C4&text_color=FFFFFF&rank_icon=github" alt="Yasmin's GitHub statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminnas&layout=compact&hide_border=true&bg_color=0D1117&title_color=F5A9C4&text_color=FFFFFF"/>
+<br><br>
+
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminnas&layout=compact&hide_border=true&bg_color=0D1117&title_color=F5A9C4&text_color=FFFFFF" alt="Most used programming languages"/>
 
 </div>
 
 <div align="center">
 
-♡ Learning, building, and growing.
+♡ Thanks for visiting my profile!
 
-Every step is part of the journey.
+Every day is an opportunity to learn something new.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:000000,100:F5A9C4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:F5A9C4&height=100&section=footer"/>
 
 </div>
