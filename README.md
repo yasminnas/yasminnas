@@ -34,19 +34,19 @@ Bachelor's Degree in Computer Science
 <br><br>
 ♡ Courses & Certifications
 <br>
-Course	Institution
+Course	 Institution
 <br>
-Python	Santander
+☆Python - Santander
 <br>
-Python — Basic	Fundação Bradesco
+☆Python — Basic -	Fundação Bradesco
 <br>
-Internet of Things	Santander
+☆Internet of Things -	Santander
 <br>
-Data Modeling	Fundação Bradesco
+☆Data Modeling	- Fundação Bradesco
 <br>
-Code Versioning with Git and GitHub	DIO
+☆Code Versioning with Git and GitHub -	DIO
 <br>
-Microsoft Excel — Basic	Fundação Bradesco
+☆Microsoft Excel — Basic	 - Fundação Bradesco
 <br><br>
 </div>
 ♡ Tech Stack
@@ -58,17 +58,25 @@ Microsoft Excel — Basic	Fundação Bradesco
 
 <div align = "left">
 ♡ Skills
-Python
-SQL
-Git and GitHub
-Database fundamentals
-Data modeling
-Microsoft Excel — Basic
-Inventory organization and material control
+<br>
+☆Python
+<br>
+☆SQL
+<br>
+☆Git and GitHub
+<br>
+☆Database fundamentals
+<br>
+☆Data modeling
+<br>
+☆Microsoft Excel — Basic
+<br>
+☆Inventory organization and material control
 <br><br>
 ♡ Languages
-Portuguese: Native
-English: Intermediate
+☆Portuguese: Native
+<br>
+☆English: Intermediate
 ♡ GitHub Statistics
 </div>
 
